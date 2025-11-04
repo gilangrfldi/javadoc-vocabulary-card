@@ -1,3 +1,4 @@
+package jepang;
 /**
  * Merepresentasikan sebuah kartu kosakata bahasa Jepang dalam sistem pembelajaran berbasis permainan.
  * Setiap kartu berisi kata dalam huruf Jepang, pelafalan (romaji), arti, contoh kalimat, dan tingkat kesulitan.
