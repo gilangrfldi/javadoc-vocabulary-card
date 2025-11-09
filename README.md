@@ -15,3 +15,6 @@ Jalankan perintah berikut di terminal (dari folder utama proyek):
 ```bash
 javadoc -d docs src/VocabularyCard.java
 ```
+
+## Link HTML
+https://gilangrfldi.github.io/javadoc-vocabulary-card/jepang/package-summary.html
